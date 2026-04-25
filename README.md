@@ -125,5 +125,3 @@ Vansh
 
 This is my first deep learning project, built to understand how neural networks work on real-world medical data.
 ---
-
-If you want, next I can also help you write a **GitHub description**, or a **LinkedIn caption** when you publish this.
